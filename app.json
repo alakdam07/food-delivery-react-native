@@ -4,11 +4,11 @@
     "slug": "food-delivery",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/drink.png",
+    "icon": "./assets/icons/icon.png",
     "splash": {
-      "image": "./assets/donut.png",
+      "image": "./assets/icons/icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#FFFFFF"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,7 +21,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icons/icon.png",
         "backgroundColor": "#FFFFFF"
       }
     },
